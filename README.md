@@ -9,9 +9,10 @@
  **Revealing hidden structure, predictability, and transitions in complex data.**
 
  
-> *“It from bit.”*  
-> — John Archibald Wheeler  
-> *All things physical are information-theoretic in origin; reality arises from the posing of yes–no questions and the registering of responses.*
+At QUANTIOTA, we believe—like John Archibald Wheeler—that the ultimate foundation of reality is information:
+
+“It from bit. Every item of the physical world has at bottom... an immaterial source and explanation; reality arises... from the posing of yes–no questions and the registering of equipment–evoked responses; in short, all things physical are information-theoretic in origin and this is a participatory universe.”
+— J.A. Wheeler, Foundations of Quantum Mechanics, Tokyo, 1989
 
 
 
