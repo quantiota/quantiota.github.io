@@ -8,6 +8,14 @@
  From financial markets and genomics to seismology, physiology, oil detection, physics, and fluid dynamics—the ultimate challenge is the same:
  **Revealing hidden structure, predictability, and transitions in complex data.**
 
+ 
+> *“It from bit.”*  
+> — John Archibald Wheeler  
+> *All things physical are information-theoretic in origin; reality arises from the posing of yes–no questions and the registering of responses.*
+
+
+
+
  **Structured Knowledge Accumulation (SKA)** is our unifying framework for information geometry.
  It empowers real-time, unsupervised learning and discovery across *any* sequential, streaming, or high-dimensional data—regardless of discipline.
 
